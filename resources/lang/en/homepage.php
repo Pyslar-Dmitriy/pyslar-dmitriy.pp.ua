@@ -23,16 +23,16 @@ return [
     'tools' => 'Tools',
     'languages' => 'Other languages',
     'experience' => 'Experience',
-    'experience_text' => '<b>Period:</b> May 2016 - till now<br><b>Position:</b> freelancer<br>
+    'experience_text' => '<b>Period:</b> June 2016 - till now<br><b>Position:</b> freelancer<br>
         <b>Responsibilities:</b> "turn key" web development, reworking of existing websites.<br>
         <br>
-        <b>Period:</b> March 2016 - May 2016<br><b>Position:</b> Developer at INBIZ web-studio<br>
+        <b>Period:</b> March 2016 - June 2016<br><b>Position:</b> Developer at INBIZ web-studio<br>
         <b>Responsibilities:</b> "turn key" web development<br>
         <br>
         <b>Period:</b> September 2015 - February 2016<br><b>Position:</b> student and intern of education center at Netcracker (Java & Oracle developer)<br>
         <b>Responsibilities:</b> Preparation to probation and team development of some project (ERP/CRM system)<br>',
     'education' => 'Education',
-    'education_text' => 'Odessa National Polytechnic University (2013-2018)
+    'education_text' => 'Odessa National Polytechnic University (2013-2017)
         <br> <b>Specialty:</b> technical systems of information protection
         <br><b>Science degree:</b> master
         <br>
