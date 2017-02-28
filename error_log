@@ -1,0 +1,2 @@
+[22-Feb-2017 20:54:50 Europe/Moscow] PHP Warning:  require(/home/oxajbunw/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/oxajbunw/public_html/index.php on line 22
+[22-Feb-2017 20:54:50 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/home/oxajbunw/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/oxajbunw/public_html/index.php on line 22
